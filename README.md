@@ -1,10 +1,9 @@
 # -folium-pandas-VolcanoPopulationWebMap
 
-A multi-layer map to geolocate volcanos and display tooltip statistics.
+A multi-layer map app that handles geo-datasets to geolocate volcanos and display relevant tooltip data.
 
 ### Packages used:
-> *difflib*
+> *folium*, *pandas*
 
 ### To run the app: 
-* CLI: `py app1.1.py`
-* Follow the prompts.
+* CLI: `app2-web-map.py`
