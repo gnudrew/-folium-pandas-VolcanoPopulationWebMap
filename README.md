@@ -6,4 +6,4 @@ A multi-layer map app that handles geo-datasets to geolocate volcanos and displa
 > *folium*, *pandas*
 
 ### To run the app: 
-* CLI: `app2-web-map.py`
+* CLI: `py app2-web-map.py`
